@@ -11,4 +11,4 @@ if(x < 120)
 }
 
 console.log("X: " + x + " and status is : " + status);
-//This was not a mistake.
+//This was not a mistake.ls\
